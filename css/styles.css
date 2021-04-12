@@ -156,9 +156,11 @@ th, td {
   padding: 15px;
 }
 
-/*
-#spoil:hover { background-color: grey; }
+#spoil:hover {
+  background-color: grey;
+}
 
+/*
 button {
     background-color: black;
     border: solid;
