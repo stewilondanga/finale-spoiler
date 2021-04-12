@@ -160,20 +160,20 @@ th, td {
   background-color: grey;
 }
 
-/*
 button {
-    background-color: black;
-    border: solid;
-    color: white;
-    padding: 12px 22px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 18px;
-    font-family:impact;
-    border-radius: 8px;
+  background-color: black;
+  border: solid;
+  color: white;
+  padding: 12px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-family: impact;
+  border-radius: 8px;
 }
 
+/*
 #contact h1 {
   font-family: helvetica;
   font-weight: normal;
