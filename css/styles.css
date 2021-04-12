@@ -152,11 +152,11 @@ th {
   font-family: impact;
 }
 
-/*
-th, td{
-    padding: 15px;
+th, td {
+  padding: 15px;
 }
 
+/*
 #spoil:hover { background-color: grey; }
 
 button {
