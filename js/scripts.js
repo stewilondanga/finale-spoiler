@@ -23,13 +23,13 @@ var spoilers = {
 };
 
 var people = Object.keys(spoilers);
-/*
-$("#spoil").on("click",function(){
-  for(p in people){
+
+$("#spoil").on("click", function() {
+  for (p in people) {
     //console.log(people[p]);
     //console.log(spoilers[people[p]]);
-    var newrow = "<tr id=" + p + "><td>"+spoilers[people[p]][0]+"</td><td>"+spoilers[people[p]][1]+"</td><td>"+spoilers[people[p]][2]+"</td><td>"+spoilers[people[p]][3];
+    var newrow = "<tr id=" + p + "><td>" + spoilers[people[p]][0] + "</td><td>" + spoilers[people[p]][1] + "</td><td>" + spoilers[people[p]][2] + "</td><td>" + spoilers[people[p]][3];
     //console.log(newrow);
-    $("#"+people[p]).parent().replaceWith(newrow);
+    $("#" + people[p]).parent().replaceWith(newrow);
   }
 });
