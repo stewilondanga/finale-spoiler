@@ -1,12 +1,12 @@
-/*var navigate = (function() {
-	$('.dd').toggle();
-	$('.dd_btn').click(function() {
-		var dataName = $(this).attr('data-name');
-		$('.dd').hide();
-		$('.' + dataName).toggle();
-	});
+var navigate = (function() {
+  $('.dd').toggle();
+  $('.dd_btn').click(function() {
+    var dataName = $(this).attr('data-name');
+    $('.dd').hide();
+    $('.' + dataName).toggle();
+  });
 })();
-
+/*
 var spoilers = {
   "june":["Offred (June Osbourne)", "Alive", "Handmaid, Rebel, Book Editor (former)", "Taken away by Eyes after refusing to follow Aunt Lydia's orders to stone Janine."],
   "luke":["Luke Bankole", "Alive", "Husband, Rebel, Office Worker (former)", "Escaped to Canada, living in an apartment with Erin and Moira."],
