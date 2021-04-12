@@ -173,8 +173,7 @@ button {
   border-radius: 8px;
 }
 
-/*
-#contact h1 {
+.containers h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
@@ -185,6 +184,7 @@ button {
   margin: 0 auto;
 }
 
+/*
 .cal {
   display: inline-block;
   background: #ffe;
