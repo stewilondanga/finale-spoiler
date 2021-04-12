@@ -21,9 +21,9 @@ var spoilers = {
   "alma": ["Ofrobert (Alma)", "Alive", "Handmaid, Rebel", "Refuses to stone Janine; Likely taken away by the Eyes, similar to Offred."],
   "lillie": ["Ofglen 2", "Unknown", "Handmaid", "Refuses to stone Janine, speaks out against Aunt Lydia, resulting in a soldier violently beating her."]
 };
-/*
-var people = Object.keys(spoilers);
 
+var people = Object.keys(spoilers);
+/*
 $("#spoil").on("click",function(){
   for(p in people){
     //console.log(people[p]);
