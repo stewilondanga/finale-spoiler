@@ -125,14 +125,14 @@ h2, h3 {
   font-family: impact;
 }
 
-/*
 table,
 tr,
 td {
-    border: 1px solid white;
-    border-collapse: collapse;
+  border: 1px solid white;
+  border-collapse: collapse;
 }
 
+/*
 table {
     border-collapse: collapse;
     margin: 0 auto;
